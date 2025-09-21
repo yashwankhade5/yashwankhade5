@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/yash_dev1" target="blank"><img src="https://img.shields.io/twitter/follow/yash_dev1?logo=twitter&style=for-the-badge" alt="yash_dev1" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript,Docker,aws**
+- 🌱 I’m currently learning **anchor**
 
 - 📫 How to reach me **yashwankhade5@gmail.com**
 
