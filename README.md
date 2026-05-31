@@ -1,27 +1,130 @@
-<h1 align="center">Hi 👋, I'm Yash Wankhade</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwankhade5&label=Profile%20views&color=0e75b6&style=flat" alt="yashwankhade5" /> </p>
+# Yash Wankhade
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashwankhade5" alt="yashwankhade5" /></a> </p>
+### Solana Smart Contract Engineer · Full-Stack · Rust · Anchor
 
-<p align="left"> <a href="https://twitter.com/yash_dev1" target="blank"><img src="https://img.shields.io/twitter/follow/yash_dev1?logo=twitter&style=for-the-badge" alt="yash_dev1" /></a> </p>
+*Turbine3 Accelerated Builder Q2 2026 · Colosseum Hackathon Builder*
 
-- 🌱 I’m currently learning **anchor**
+[![Twitter](https://img.shields.io/badge/@Yash__Dev1-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/Yash_Dev1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![Email](https://img.shields.io/badge/yashwankhade5@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yashwankhade5@gmail.com)
+[![Location](https://img.shields.io/badge/Maharashtra,_India-gray?style=flat&logo=googlemaps&logoColor=white)](#)
 
-- 📫 How to reach me **yashwankhade5@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yash_dev1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yash_dev1" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashwankhade5&show_icons=true&locale=en&layout=compact" alt="yashwankhade5" /></p>
+I build on **Solana** — smart contracts in Rust/Anchor, backends in TypeScript/Node.js, and full-stack dApps end to end. I care about trustless design, on-chain security, and shipping things that actually work.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashwankhade5&show_icons=true&locale=en" alt="yashwankhade5" /></p>
+Currently in the **Turbine3 Accelerated Builder** cohort (Q2 2026) — an advanced track for high-output Solana developers shipping production-grade projects.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwankhade5&" alt="yashwankhade5" /></p>
+- Submitted to **Colosseum Frontier Hackathon 2025** with HorizonPay (trustless stablecoin payment rail)
+- Submitted to **Colosseum Hackathon** with CipherVault (on-chain multisig governance vault)
+- Deep in: PDAs, CPIs, SPL tokens, escrow design, idempotency, event-driven backends
 
+---
+
+## Tech Stack
+
+**Blockchain**
+`Rust` `Anchor` `Solana Web3.js` `PDAs` `CPIs` `SPL Tokens` `On-chain state design`
+
+**Backend**
+`TypeScript` `Node.js` `Express` `WebSocket` `REST APIs` `Prisma ORM` `PostgreSQL` `MongoDB`
+
+**Frontend**
+`React` `Next.js` `TailwindCSS` `Wallet Adapter`
+
+**Infra & Tools**
+`Docker` `AWS EC2` `Vercel` `Nginx` `CI/CD` `Linux` `Git`
+
+**Security & Auth**
+`JWT` `Bcrypt` `Zod` `HMAC` `Idempotency design`
+
+---
+
+## Featured Projects
+
+### [HorizonPay](https://github.com/yourusername/horizonpay) — Trustless Stablecoin Payment Rail on Solana
+> *Rust · Anchor · TypeScript · Node.js · Next.js · PostgreSQL · Prisma*
+
+Trustless stablecoin payment infrastructure built end-to-end — Anchor contract, Node.js backend, Next.js checkout frontend.
+
+- On-chain **7-slot circular buffer escrow** in Rust; `advance_escrow()` shared helper called atomically from `pay`, `withdraw`, and `update_withdrawal_amount` instructions
+- **Idempotent checkout sessions** via `merchant_id:order_id:amount` key with DB `UNIQUE` constraint; JWT-signed URLs with server-side tx validation before broadcast
+- **Event-driven backend**: WebSocket contract listener + 5-minute reconciliation cron; HMAC-signed webhook delivery over raw bytes to prevent JSON key-order mismatches
+- 🏆 *Submitted to Colosseum Frontier Hackathon 2025*
+
+---
+
+### [CipherVault](https://github.com/yourusername/ciphervault) — On-chain Multisig Governance & Treasury
+> *Rust · Anchor · React · TypeScript · Solana Web3.js*
+
+Full-stack Solana dApp for on-chain governance and treasury management with threshold multi-signature approvals.
+
+- Anchor program with proposal + approval accounts, PDA-based vault authority, CPI for SOL & SPL token transfers
+- Governance controls minting and supply decisions
+- 🌐 Live on Devnet: [ciphervault-frontend.vercel.app](https://ciphervault-frontend.vercel.app)
+- 🏆 *Submitted to Colosseum Hackathon*
+
+---
+
+### [Token Launchpad · Staking · AMM](https://github.com/yourusername/solana-programs)
+> *Rust · Anchor · Solana*
+
+Three independent Anchor programs deployed on Solana Devnet:
+- **Token Launchpad** — configurable distribution mechanics
+- **Staking** — on-chain reward math
+- **AMM** — constant-product formula with liquidity pool management
+
+---
+
+### [SolGuard](https://github.com/yourusername/solguard)
+> *Rust · Anchor · Solana*
+
+Solana smart contract demonstrating secure account validation and constraint patterns in Anchor — a clean reference for guard logic design.
+
+---
+
+### [High-Concurrency WebSocket Chat Server](https://github.com/yourusername/ws-chat)
+> *TypeScript · Node.js · WebSocket*
+
+Event-driven chat server handling **5K–20K concurrent WebSocket connections**. Benchmarked and optimized for vertical scaling under sustained load.
+
+---
+
+### [Payment Backend Clone](https://github.com/yourusername/payment-backend)
+> *Node.js · Express · JWT · Bcrypt · Zod · MongoDB*
+
+Production-patterned payment backend: JWT auth, bcrypt password hashing, Zod input validation, idempotent transfer endpoints.
+
+---
+
+## Hackathons & Training
+
+| Program | Year | Details |
+|---|---|---|
+| 🚀 Turbine3 Accelerated Builder | 2026 (Active) | Advanced cohort for high-output Solana builders |
+| 🏆 Colosseum Frontier Hackathon | 2026 | HorizonPay — trustless stablecoin payment rail |
+| 🏆 Colosseum Hackathon | 2025 | CipherVault — on-chain multisig governance |
+| ⚡ Turbine3 Builder Program | 2025 | 7-week intensive: PDAs, CPIs, SPL, Anchor architecture |
+| 🌐 Harkirat Singh Cohort 3.0 | 2025 | Full-stack · Web3 · DevOps (Docker, CI/CD, Nginx, AWS) |
+
+---
+
+## Education
+
+**B.E. Computer Science & Engineering** — SGBAU, Maharashtra  
+CGPA: 8.48 / 10 · Graduated 2023
+
+---
+
+<div align="center">
+
+*Open to Solana engineering roles — remote or India-based.*  
+**[yashwankhade5@gmail.com](mailto:yashwankhade5@gmail.com) · [+91 82081 09560](tel:+918208109560)**
+
+</div>
