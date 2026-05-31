@@ -125,6 +125,6 @@ CGPA: 8.48 / 10 · Graduated 2023
 <div align="center">
 
 *Open to Solana engineering roles — remote or India-based.*  
-**[yashwankhade5@gmail.com](mailto:yashwankhade5@gmail.com) · [+91 82081 09560](tel:+918208109560)**
+**[yashwankhade5@gmail.com](mailto:yashwankhade5@gmail.com)**
 
 </div>
