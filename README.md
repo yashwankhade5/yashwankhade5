@@ -30,7 +30,7 @@ Currently in the **Turbine3 Accelerated Builder** cohort (Q2 2026) — an advanc
 ## Tech Stack
 
 **Blockchain**
-`Rust` `Anchor` `Solana Web3.js` `PDAs` `CPIs` `SPL Tokens` `On-chain state design`
+`Rust` `Anchor` `Solana Web3.js` `LiteSVM` `SurfPool` `PDAs` `CPIs` `SPL Tokens` `On-chain state design`
 
 **Backend**
 `TypeScript` `Node.js` `Express` `WebSocket` `REST APIs` `Prisma ORM` `PostgreSQL` `MongoDB`
