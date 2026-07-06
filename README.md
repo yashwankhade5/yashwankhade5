@@ -48,19 +48,17 @@ Currently in the **Turbine3 Accelerated Builder** cohort (Q2 2026) — an advanc
 
 ## Featured Projects
 
-### [HorizonPay](https://github.com/yourusername/horizonpay) — Trustless Stablecoin Payment Rail on Solana
+### [HorizonPay](https://github.com/yashwankhade5/horizonpay) — Trustless Stablecoin Payment Rail on Solana
 > *Rust · Anchor · TypeScript · Node.js · Next.js · PostgreSQL · Prisma*
 
-Trustless stablecoin payment infrastructure built end-to-end — Anchor contract, Node.js backend, Next.js checkout frontend.
-
-- On-chain **7-slot circular buffer escrow** in Rust; `advance_escrow()` shared helper called atomically from `pay`, `withdraw`, and `update_withdrawal_amount` instructions
+Trustless stablecoin payment infrastructure built end-to-end — Anchor contract, Node.js backend, Next.js checkout frontbackend On-chain **7-slot circular buffer escrow** in Rust; `advance_escrow()` shared helper called atomically from `pay`, `withdraw`, and `update_withdrawal_amount` instructions
 - **Idempotent checkout sessions** via `merchant_id:order_id:amount` key with DB `UNIQUE` constraint; JWT-signed URLs with server-side tx validation before broadcast
 - **Event-driven backend**: WebSocket contract listener + 5-minute reconciliation cron; HMAC-signed webhook delivery over raw bytes to prevent JSON key-order mismatches
 - 🏆 *Submitted to Colosseum Frontier Hackathon 2025*
 
 ---
 
-### [CipherVault](https://github.com/yourusername/ciphervault) — On-chain Multisig Governance & Treasury
+### [CipherVault](https://github.com/yashwankhade5/ciphervault) — On-chain Multisig Governance & Treasury
 > *Rust · Anchor · React · TypeScript · Solana Web3.js*
 
 Full-stack Solana dApp for on-chain governance and treasury management with threshold multi-signature approvals.
@@ -72,7 +70,7 @@ Full-stack Solana dApp for on-chain governance and treasury management with thre
 
 ---
 
-### [Token Launchpad · Staking · AMM](https://github.com/yourusername/solana-programs)
+### [Token Launchpad · Staking · AMM](https://github.com/yashwankhade5/solana-programs)
 > *Rust · Anchor · Solana*
 
 Three independent Anchor programs deployed on Solana Devnet:
@@ -82,7 +80,7 @@ Three independent Anchor programs deployed on Solana Devnet:
 
 ---
 
-### [SolGuard](https://github.com/yourusername/solguard)
+### [SolGuard](https://github.com/yashwankhade5/solguard)
 > *Rust · Anchor · Solana*
 
 Solana smart contract demonstrating secure account validation and constraint patterns in Anchor — a clean reference for guard logic design.
