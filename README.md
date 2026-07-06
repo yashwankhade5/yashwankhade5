@@ -70,7 +70,7 @@ Full-stack Solana dApp for on-chain governance and treasury management with thre
 
 ---
 
-### [Token Launchpad · Staking · AMM](https://github.com/yashwankhade5/solana-programs)
+### [Token Launchpad · Staking · AMM](https://github.com/yashwankhade5/anchor-amm)
 > *Rust · Anchor · Solana*
 
 Three independent Anchor programs deployed on Solana Devnet:
@@ -87,14 +87,14 @@ Solana smart contract demonstrating secure account validation and constraint pat
 
 ---
 
-### [High-Concurrency WebSocket Chat Server](https://github.com/yourusername/ws-chat)
+### [High-Concurrency WebSocket Chat Server](https://github.com/yashwankhade5/Chatapp)
 > *TypeScript · Node.js · WebSocket*
 
 Event-driven chat server handling **5K–20K concurrent WebSocket connections**. Benchmarked and optimized for vertical scaling under sustained load.
 
 ---
 
-### [Payment Backend Clone](https://github.com/yourusername/payment-backend)
+### [Payment Backend Clone](https://github.com/yashwankhade5/Paytm)
 > *Node.js · Express · JWT · Bcrypt · Zod · MongoDB*
 
 Production-patterned payment backend: JWT auth, bcrypt password hashing, Zod input validation, idempotent transfer endpoints.
