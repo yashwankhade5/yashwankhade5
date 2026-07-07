@@ -7,7 +7,7 @@
 *Turbine3 Accelerated Builder Q2 2026 · Colosseum Hackathon Builder*
 
 [![Twitter](https://img.shields.io/badge/@Yash__Dev1-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/Yash_Dev1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashwankhade18) 
 [![Email](https://img.shields.io/badge/yashwankhade5@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yashwankhade5@gmail.com)
 [![Location](https://img.shields.io/badge/Maharashtra,_India-gray?style=flat&logo=googlemaps&logoColor=white)](#)
 
